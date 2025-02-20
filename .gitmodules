@@ -1,0 +1,3 @@
+[submodule "simple-node-js-react-npm-app"]
+	path = simple-node-js-react-npm-app
+	url = https://github.com/koteswararao73/simple-node-js-react-npm-app.git
